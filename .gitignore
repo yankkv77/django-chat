@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+
+# Database
+db.sqlite3
+
+# Static files
+/static/
+
+# Media files
+/media/
+
+# Compiled Python files
+*.pyc
+
+# Local development settings
+local_settings.py
+
